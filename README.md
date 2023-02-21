@@ -1,2 +1,2 @@
 # SpendingTracker
-Keep track of spending using React, MongoDB, Typescript, and a nice frontend 
+Keep track of spending using React, CockroachDB, Typescript, and a nice frontend 
